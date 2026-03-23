@@ -50,7 +50,7 @@ Araç açıldığında size bir kullanıcı adı soracaktır:
 
 **Örnek Görünüm:**
 ```text
-=== Craftrise Oyuncu Checker V2 ===
+Craftrise Oyuncu Checker
 
 Kullanıcı adı giriniz ('exit' ile çık): ahmet
  ahmet adlı oyuncu BANLI.
